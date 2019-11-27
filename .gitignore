@@ -1,3 +1,5 @@
 
-__pycache__/
-**/__pycache__
+__pycache__
+migrations
+/django/home/__pycache__/
+/django/home/migrations/
