@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM django2.2:latest
+FROM django3:latest
 LABEL maintainer="hello@wagtail.io"
 
 # Set environment varibles
