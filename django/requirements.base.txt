@@ -4,4 +4,4 @@ psycopg2==2.8.4
 psycopg2-binary==2.8.4
 ipdb
 django-debug-toolbar
-wagtail==2.7
+wagtail==2.7.2
